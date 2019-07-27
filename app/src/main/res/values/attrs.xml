@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="NonstopBanner">
+
+        <attr name="enableAutoPlay" format="boolean" />
+        <attr name="enableNonstopLoop" format="boolean" />
+        <attr name="enableDots" format="boolean" />
+        <attr name="enableDesc" format="boolean" />
+        <attr name="customSelector" format="reference" />
+        <attr name="dotGapSpace" format="dimension" />
+        <attr name="descTextSize" format="dimension" />
+        <attr name="interval" format="integer" />
+        <attr name="maskBackgroundColor" format="color" />
+    </declare-styleable>
+</resources>
